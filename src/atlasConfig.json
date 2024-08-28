@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-dzmxrak",
+    "appUrl": "https://services.cloud.mongodb.com/groups/66cc034c5122bb60a52f300c/apps/66ce37152452b56a36ec96c7",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/66cc034c5122bb60a52f300c/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
